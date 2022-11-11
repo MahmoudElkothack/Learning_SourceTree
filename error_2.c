@@ -7,5 +7,6 @@ int*p;
 int*z=10;
 int zx=0;
 int yu=90;
+int erer=10;
 return 0;
 }
