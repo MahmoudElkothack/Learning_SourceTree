@@ -6,5 +6,6 @@ int*p;
 *p=malloc(4);
 int*z=10;
 int zx=0;
+int yu=90;
 return 0;
 }
