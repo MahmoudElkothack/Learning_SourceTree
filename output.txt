@@ -1,0 +1,4 @@
+9	0	error.c
+7	0	error_2.c
+5	0	hi_file.txt
+1	0	log.txt
